@@ -7,12 +7,14 @@ Markdown é uma linguagem de marcação de texto.
 ## **Marcações em Markdown:**    
 ### - **Titulação:**  
 
->##### # Título 1 
->##### ## Título 2
->##### ### Título 3
->##### #### Título 4
->##### ##### Título 5
->##### ###### Título 6
+>
+##### # Título 1 
+##### ## Título 2
+##### ### Título 3
+##### #### Título 4
+##### ##### Título 5
+##### ###### Título 6
+>
 
 ### **Como fica:**
 
@@ -30,4 +32,10 @@ Markdown é uma linguagem de marcação de texto.
 *Itálico*: ` *itálico* ` ou `_itálico_ `  
 ***Negrito e Itálico:*** ` ***negrito e itálico***`   
 ~~Riscado~~ : ` ~~riscado~~ `  
-`Destaque:` ``` `destaque` ```
+`Destaque:` ``` `destaque` ```  
+
+### Links:  
+
+>
+Existem duas formas de inserir link em Markdown, através de um link direto ou usando um texto-âncora:
+>
