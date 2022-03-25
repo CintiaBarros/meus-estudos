@@ -39,3 +39,16 @@ Markdown é uma linguagem de marcação de texto.
 >
 Existem duas formas de inserir link em Markdown, através de um link direto ou usando um texto-âncora:
 >
+Com texto âncora
+```
+[Texto](www.google.com)
+```
+Ou apenas o link direto
+```
+<www.exemplo.com> 
+```
+
+Este é um `link em formato de texto`, e este é um link direto `https://site.com/`.
+
+
+
