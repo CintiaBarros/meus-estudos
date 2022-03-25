@@ -29,4 +29,5 @@ Markdown é uma linguagem de marcação de texto.
 ` **negrito** ` ou ` __negrito__ `  
 *Itálico*: ` *itálico* ` ou `_itálico_ `  
 ***Negrito e Itálico:*** ` ***negrito e itálico***`   
-~~Riscado~~ : ` ~~riscado~~ `
+~~Riscado~~ : ` ~~riscado~~ `  
+`Destaque:` `destaque` (utilize crase no inicio e no fim da palavra ou frase)
