@@ -63,5 +63,37 @@ Imagens grandes podem estar em linhas individuais, para serem exibidas em maior 
 ![cachorro feliz](cachorro-feliz.jpeg)
 
 
-Esta é uma linha com uma imagem personalizada .
+Esta é uma linha com uma imagem personalizada .  
+
+## Listas  
+
+Para listas não ordenadas, utilize um asterisco * na frente do item da lista:
+```
+* Item 1
+* Item 2
+* Item 3
+```
+Fica assim:
+
+* Item 1
+* Item 2
+* Item 3
+
+Para listas ordenadas, utilize o número do item seguido de ponto . :
+
+```
+1. Item 1
+2. Item 2
+3. Item 3
+```
+Fica assim:
+
+1. Item 1
+2. Item 2
+3. Item 3  
+
+Em ambos os casos lembre-se de dar um espaço depois do ícone para o comando funcionar.
+
+
+
 
