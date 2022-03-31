@@ -97,6 +97,7 @@ Em ambos os casos lembre-se de dar um espaço depois do ícone para o comando fu
 ## Citação (Quote)
 ```
 Para transformar um texto em uma citação ou comentário, semelhante ao código HTML <blockquote>, utilize o sinal > no início da linha que será formatada:
+
 ```
 
 ```>Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
