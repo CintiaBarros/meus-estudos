@@ -92,8 +92,50 @@ Fica assim:
 2. Item 2
 3. Item 3  
 
-Em ambos os casos lembre-se de dar um espaço depois do ícone para o comando funcionar.
+Em ambos os casos lembre-se de dar um espaço depois do ícone para o comando funcionar.  
+
+## Citação (Quote)
+```
+Para transformar um texto em uma citação ou comentário, semelhante ao código HTML <blockquote>, utilize o sinal > no início da linha que será formatada:
+```
+
+```>Este é um *blockquote*. O sinal usado abre e fecha este código no HTML. 
+>Para adicionar mais uma linha à citação, basta teclar Enter para um novo
+>código sinal. Isso gerará um novo parágrafo dentro do *blockquote*.
+>Códigos de **negrito**, _itálico_ e <https://links.com> funcionam aqui.  
+```  
+
+### Como aparece no HTML:
+
+Este é um blockquote. O sinal usado abre e fecha este código no HTML. Para adicionar mais uma linha à citação, basta teclar Enter para um novo código sinal. Isso gerará um novo parágrafo dentro do blockquote. Códigos de negrito, itálico e https://links.com funcionam aqui.  
+
+## Bloco de código:  
+
+Há dois modos de adicionar trechos de código ao Markdown:
+
+- Código em linha (inline): adicione um acento crase ˋ no início e no final do código.  
+
+- Múltiplas linhas de código: envolva as linhas de código com três acentos crases ˋˋˋ ou três tils ~~~.
+
+ ```
+ Esta é uma linha que contém um ˋcódigoˋ.
 
 
+Esta é uma linha de código  
+```
 
+ Para especificar que tipo de linguagem está sendo apresentada no bloco de códigos adicionando o nome da linguagem de programação após o ˋˋˋ ou ~~~, por exemplo ~~~javascript ou ~~~ruby. Veja nos exemplos abaixo:  
 
+```
+ ~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
+```
