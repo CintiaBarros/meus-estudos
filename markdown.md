@@ -48,7 +48,20 @@ Ou apenas o link direto
 <www.exemplo.com> 
 ```
 
-Este é um `link em formato de texto`, e este é um link direto `https://site.com/`.
+Este é um `link em formato de texto`, e este é um link direto `https://site.com/`.   
+
+## Imagens
+
+O código para inserir uma imagem no conteúdo é semelhante ao código de inserir links-âncora, adicionando um ponto de exclamação ! no início do código, como no exemplo abaixo:
 
 
+```
+![Alt ou título da imagem](URL da imagem)
+```
+
+Imagens grandes podem estar em linhas individuais, para serem exibidas em maior tamanho.
+![cachorro feliz](cachorro-feliz.jpeg)
+
+
+Esta é uma linha com uma imagem personalizada .
 
