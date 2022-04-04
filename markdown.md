@@ -139,4 +139,57 @@ Esta é uma linha de código em PHP.
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
+```  
+
+## Tabela
+Escolha os títulos das colunas e use | para delimitar as colunas. Depois, utilize hífen - na segunda linha para indicar que acima estão os títulos das colunas, usando novamente o | para delimitar colunas. Veja um exemplo abaixo:
 ```
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+```
+Como aparece no Learning Center:
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8  
+
+Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
+
+Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
+Alinhado a direita: usar : no lado direito;
+Centralizado: usar : dos dois lados.  
+
+Veja no exemplo:
+```
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
+```
+
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
+
+## Task lists
+
+Basta você usar a notação - [ ] Texto da task (com um espaço dentro dos colchetes) para criar um checkbox desmarcado, ou então - [x] Texto da task, para um checkbox marcado. Exemplo:
+```
+- [ ] Comprar arroz
+- [ ] Comprar feijão
+- [ ] Comprar batata
+- [x] Comprar macarrão
+```
+
+Como fica:
+
+- [ ] Comprar arroz  
+- [ ] Comprar feijão  
+- [ ] Comprar batata  
+- [x] Comprar macarrão  
