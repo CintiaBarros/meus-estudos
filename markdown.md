@@ -193,3 +193,13 @@ Como fica:
 - [ ] Comprar feijão  
 - [ ] Comprar batata  
 - [x] Comprar macarrão  
+
+## Conclusão
+
+Anotações sobre os principais e mais utilizados recursos para quem deseja utilizar o Markdown sem neura. 
+
+# Referências
+
+- [Pipz Academy](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+- [Sabrina Barros ](https://dev.to/sabrinabarros/o-que-e-markdown-e-como-ele-pode-melhorar-o-seu-readme-no-github-2n2l)
+- [Raul Esteves](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
