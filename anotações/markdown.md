@@ -1,6 +1,8 @@
 # Markdown
 
-## **O que é Markdown?**   
+## **O que é Markdown?**  
+![Alt ou título da imagem](/imagens/markdown.png)
+
 Markdown é uma linguagem de marcação de texto.       
 
 
@@ -60,7 +62,7 @@ O código para inserir uma imagem no conteúdo é semelhante ao código de inser
 ```
 
 Imagens grandes podem estar em linhas individuais, para serem exibidas em maior tamanho.
-![cachorro feliz](cachorro-feliz.jpeg)
+![cachorro feliz](/imagens/cachorro_feliz.jpeg)
 
 
 Esta é uma linha com uma imagem personalizada .  
@@ -198,7 +200,7 @@ Como fica:
 
 Anotações sobre os principais e mais utilizados recursos para quem deseja utilizar o Markdown sem neura. 
 
-# Referências
+# Referências:
 
 - [Pipz Academy](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [Sabrina Barros ](https://dev.to/sabrinabarros/o-que-e-markdown-e-como-ele-pode-melhorar-o-seu-readme-no-github-2n2l)
