@@ -3,7 +3,11 @@
 ## **O que é Markdown?**  
 ![Alt ou título da imagem](/imagens/markdown.png)
 
-Markdown é uma linguagem de marcação de texto.       
+Markdown é uma linguagem de marcação de texto.  Desenvolvido em 2004 por John Gruber e Aaron Swartz para simplificar a estruturação de um texto, o Markdown é um sistema de formatação aberto que torna a escrita e a leitura mais simples. Com uma codificação mínima, além de fácil, ele é visualmente mais "limpo" e pode ser convertido facilmente para HTML.
+
+Basicamente, ele marca alterações nos textos (subtítulos, negrito, itálico etc) apenas com os símbolos do teclado, sem usar teclas de atalho, menus, selecionando o texto e sem aquele visual complexo - para os que não estão acostumados - de HTML.
+
+A linguagem Markdown pode ser processada em diversos programas, incluindo o Microsoft Word ou o Openoffice.org Writer. Seus arquivos também ficam muito pequenos e dificilmente se "quebram".  
 
 
 ## **Marcações em Markdown:**    
@@ -200,8 +204,9 @@ Como fica:
 
 Anotações sobre os principais e mais utilizados recursos para quem deseja utilizar o Markdown sem neura. 
 
-# Referências:
+# Referências:  
 
 - [Pipz Academy](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - [Sabrina Barros ](https://dev.to/sabrinabarros/o-que-e-markdown-e-como-ele-pode-melhorar-o-seu-readme-no-github-2n2l)
 - [Raul Esteves](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
+- [Canaltech](https://canaltech.com.br/software/Voce-sabe-o-que-e-Markdown/)
