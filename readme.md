@@ -1,5 +1,7 @@
-# Meus estudos
+# Meus estudos  
 
-- [Anotações sobre Markdown](https://github.com/CintiaBarros/meus-estudos/blob/master/markdown.md)
-- [Anotações sobre terminal](https://github.com/CintiaBarros/meus-estudos/blob/master/Anota%C3%A7%C3%B5essobreterminal.md)
-- [Anotações sobre git](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C5%8Desgit.md)
+![Alt ou título da imagem](/imagens/estudos.jpeg
+)
+- [Markdown](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md)
+- [Terminal](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/terminal.md)
+- [Git](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/git_e_github.md)
