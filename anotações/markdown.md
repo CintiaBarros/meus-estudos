@@ -2,20 +2,19 @@
 
 **Sumário:**
 
-- [1. O que é Markdown?](o_que_e_Markdown)  
-- [2. Marcações em Markdown](marcações_em_markdown)  
-- [2.1.  Titulação](titlulacao)
-- [2.2 Formatação](Formatação)
-- [2.3 Links](Links)  
-- [2.4 Imagens](Imagens)  
-- [2.5 Listas](Listas)
-- [2.6 Citação](Citação)  
-- [2.7 Bloco de código](Blocodecódigo)
-- [2.8 Tabela](Tabela)
-- [2.9 Task lists](Tasklists)
-- [2.10 Sumário](Sumário)  
-- [3 Conclusão](Conclusão)
-- [4 Referências](Referências)
+- [1. O que é Markdown?](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#o-que-%C3%A9-markdown)  
+- [2. Marcações em Markdown](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#marca%C3%A7%C3%B5es-em-markdown)  
+- [2.1.  Titulação](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#--titula%C3%A7%C3%A3o)
+- [2.2 Formatação](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#--formata%C3%A7%C3%A3o)
+- [2.3 Links](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#links)  
+- [2.4 Imagens](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#imagens)  
+- [2.5 Listas](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#listas)
+- [2.6 Citação](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#cita%C3%A7%C3%A3o-quote)  
+- [2.7 Bloco de código](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#bloco-de-c%C3%B3digo)
+- [2.8 Tabela](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#tabela)
+- [2.9 Task lists](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#task-lists)
+- [3 Conclusão](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#conclus%C3%A3o)
+- [4 Referências](https://github.com/CintiaBarros/meus-estudos/blob/master/anota%C3%A7%C3%B5es/markdown.md#refer%C3%AAncias)
 
 
 ## **O que é Markdown?**  
@@ -217,17 +216,6 @@ Como fica:
 - [ ] Comprar feijão  
 - [ ] Comprar batata  
 - [x] Comprar macarrão  
-
-## Sumário  
-
-Para criar um sumário ou índice você pode fazer da seguinte maneira: 
-
-`` - [texto aqui](textoaqui)``
-Dentro do conchetes coloque o título que deseja que apareça no sumário, dentro do parenteses coloque o título sem espaços, obs: no parenteses é importante que seja digitado igualmente ao título do conteúdo em questão para que o link funcione. 
-
-Como fica:
-
-- 1. [texto aqui](textoaqui)
 
 ## Conclusão
 
