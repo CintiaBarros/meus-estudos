@@ -1,5 +1,23 @@
 # Markdown
 
+**Sumário:**
+
+- [1. O que é Markdown?](o_que_e_Markdown)  
+- [2. Marcações em Markdown](marcações_em_markdown)  
+- [2.1.  Titulação](titlulacao)
+- [2.2 Formatação](Formatação)
+- [2.3 Links](Links)  
+- [2.4 Imagens](Imagens)  
+- [2.5 Listas](Listas)
+- [2.6 Citação](Citação)  
+- [2.7 Bloco de código](Blocodecódigo)
+- [2.8 Tabela](Tabela)
+- [2.9 Task lists](Tasklists)
+- [2.10 Sumário](Sumário)  
+- [3 Conclusão](Conclusão)
+- [4 Referências](Referências)
+
+
 ## **O que é Markdown?**  
 ![Alt ou título da imagem](/imagens/markdown.png)
 
@@ -40,7 +58,7 @@ A linguagem Markdown pode ser processada em diversos programas, incluindo o Micr
 ~~Riscado~~ : ` ~~riscado~~ `  
 `Destaque:` ``` `destaque` ```  
 
-### Links:  
+### **Links:**  
 
 >
 Existem duas formas de inserir link em Markdown, através de um link direto ou usando um texto-âncora:
@@ -56,7 +74,7 @@ Ou apenas o link direto
 
 Este é um `link em formato de texto`, e este é um link direto `https://site.com/`.   
 
-## Imagens
+### **Imagens**
 
 O código para inserir uma imagem no conteúdo é semelhante ao código de inserir links-âncora, adicionando um ponto de exclamação ! no início do código, como no exemplo abaixo:
 
@@ -71,7 +89,7 @@ Imagens grandes podem estar em linhas individuais, para serem exibidas em maior 
 
 Esta é uma linha com uma imagem personalizada .  
 
-## Listas  
+## **Listas**  
 
 Para listas não ordenadas, utilize um asterisco * na frente do item da lista:
 ```
@@ -100,7 +118,7 @@ Fica assim:
 
 Em ambos os casos lembre-se de dar um espaço depois do ícone para o comando funcionar.  
 
-## Citação (Quote)
+### **Citação (Quote)**
 ```
 Para transformar um texto em uma citação ou comentário, semelhante ao código HTML <blockquote>, utilize o sinal > no início da linha que será formatada:
 
@@ -199,6 +217,17 @@ Como fica:
 - [ ] Comprar feijão  
 - [ ] Comprar batata  
 - [x] Comprar macarrão  
+
+## Sumário  
+
+Para criar um sumário ou índice você pode fazer da seguinte maneira: 
+
+`` - [texto aqui](textoaqui)``
+Dentro do conchetes coloque o título que deseja que apareça no sumário, dentro do parenteses coloque o título sem espaços, obs: no parenteses é importante que seja digitado igualmente ao título do conteúdo em questão para que o link funcione. 
+
+Como fica:
+
+- 1. [texto aqui](textoaqui)
 
 ## Conclusão
 
